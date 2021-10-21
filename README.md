@@ -1,1 +1,2 @@
-# Private-Server-Website-PC-Game-
+# PrivateServer-Website-PCGame
+Worked With Database, PHPMYADMIN, Lua Files, Xampp
